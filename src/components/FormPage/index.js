@@ -71,7 +71,7 @@ class FormPage extends Component {
       this.state;
     return (
       <div id="project" className="formPageDetails">
-        <h1>Add Project</h1>
+        <h1 className="project-title">Add Project</h1>
         <form onSubmit={this.onSubmittingForm}>
           <label htmlFor="forProjectN">Project Name</label>
           <br />
@@ -113,6 +113,7 @@ class FormPage extends Component {
         <img
           src="https://res.cloudinary.com/dojn2omox/image/upload/v1704392370/z0p5flr9o5k2jxb1tmri.png"
           alt="border"
+          className="border"
         />
         <br />
         <h1 className="head-details-of-project">Projects</h1>

@@ -4,7 +4,7 @@ const Header = () => (
   <nav className="nav-header">
     <div className="nav-content">
       <h1 className="head-details-nav">Modelyn Torff</h1>
-      <div className="bgiDetails">
+      <div>
         <ul className="nav-menu">
           <a href="#about">
             <li className="nav-menu-item">About</li>

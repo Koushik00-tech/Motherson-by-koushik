@@ -32,6 +32,7 @@
   }
   
   .head-details-of-project {
+    font-family: "Playfair Display";
     margin-bottom: 40px;
     margin-top: 40px;
   }
@@ -52,3 +53,10 @@
     justify-content: center;
     list-style-type: none;
   }
+
+.project-title{
+    font-family: "Playfair Display";
+}
+.border{
+width: 80%;
+}

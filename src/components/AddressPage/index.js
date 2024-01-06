@@ -5,11 +5,6 @@ const AddressPage = () => (
     <div>
       <img
         src="https://res.cloudinary.com/dojn2omox/image/upload/v1704400215/linkedin_p2xapl.png"
-        alt="insta"
-        className="logo-image-details"
-      />
-      <img
-        src="https://res.cloudinary.com/dojn2omox/image/upload/v1704400215/linkedin_p2xapl.png"
         alt="linkedin"
         className="logo-image-details"
       />
